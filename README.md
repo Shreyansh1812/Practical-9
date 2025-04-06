@@ -84,5 +84,5 @@ Understand how to handle and validate user input in a React form.
 This project is open-source and available under the MIT License.
 
 ## 📜 Output
-![alt text](image.png)
+![alt text](Form.png)
 ![alt text](<Screenshot 2025-03-06 160239.png>)
